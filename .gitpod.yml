@@ -11,3 +11,7 @@ tasks:
       flask init-db
     command: |
       flask run
+
+vscode:
+  extensions:
+    - ms-python.python
