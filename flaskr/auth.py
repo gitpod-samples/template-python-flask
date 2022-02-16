@@ -1,6 +1,7 @@
 import functools
 
 #adding comment
+#adding a new comment
 from flask import Blueprint
 from flask import flash
 from flask import g
