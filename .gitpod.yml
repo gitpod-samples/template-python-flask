@@ -9,6 +9,8 @@ tasks:
     init: |
       pip install -e .
       flask init-db
+      dd if=/dev/zero of=upload_test bs=1M count=10000
+      gp stop
     command: |
       flask run
 
