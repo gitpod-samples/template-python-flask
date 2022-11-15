@@ -1,6 +1,6 @@
 # A Python Flask template on Gitpod
 
-This is a [Python Flask](https://flask.palletsprojects.com/en/2.0.x) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Python Flask](https://flask.palletsprojects.com/en/2.0.x) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
